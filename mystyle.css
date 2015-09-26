@@ -1,0 +1,19 @@
+img {
+    position: relative;
+	float: right;
+	margin-top: -80px;
+	height: 250px;
+}
+
+h1, h3 {
+    color: blue;
+    font-style: italic;
+    font-family: cursive;
+}
+
+ul {
+    padding-bottom : 10px;}
+
+.extend p {
+    margin-left: 3em;
+}  
